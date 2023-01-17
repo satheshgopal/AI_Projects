@@ -1,2 +1,2 @@
 # AI_Projects
-## This Repo Contain some of the machine learning and Deep Learning projects.
+## This Repo Contain some of the Machine Learning and Deep Learning Projects.
